@@ -8,6 +8,8 @@ I’m Kara Rawson (she/her) aka ZoeDreams, a passionate gamer and developer from
 - Twitter: https://twitter.com/D4TwitchPlays
 - YouTube: https://www.youtube.com/@badcatgame
 - GitHub: https://github.com/ZoeDreams
+- Twitch: https://www.twitch.tv/d4twitchplays
+- Discord: https://discord.gg/WfGejgTUCu
 
 ## Summary
 
