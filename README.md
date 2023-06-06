@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Kara Rawson (she/her) aka ZoeDreams, a passionate gamer and developer from Bat Country. I’m working on creating fun and immersive games using WebGL, WebAssembly, and JavaScript. I also love to contribute to open source projects and learn new technologies. 😊
+I’m Kara Rawson (she/her) aka ZoeDreams, a passionate gamer and developer working on a new programming language called [bytescript](https://github.com/bytescript/bytescript). I’m working on creating fun and immersive games using WebGL, WebAssembly, and JavaScript. I also love to contribute to open source projects and learn new technologies. 😊
 
 # Kara Rawson
 - Phone: *Just Ask*
