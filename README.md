@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-I’m Kara Rawson (she/her), a passionate gamer and developer working on a cat game engine written with [Meow](https://github.com/bat-country-ent/meow). I’m working on creating fun and immersive cat games using Meow, C++, and WebAssembly. I also love to contribute to open source projects and learn new technologies. 😊
-
-# Kara Rawson
-- Phone: *Just Ask*
-- Email: d4twitchplays@gmail.com
-- Twitter: https://twitter.com/D4TwitchPlays
-- YouTube: https://www.youtube.com/@badcatgame
-- Twitch: https://www.twitch.tv/d4twitchplays
-- Discord: https://discord.gg/WfGejgTUCu
+I’m Kara Rawson, a passionate gamer and developer working on a cat game engine written with [Meow](https://github.com/bat-country-ent/meow). I’m working on creating fun and immersive cat games using Meow, C++, and WebAssembly. I also love to contribute to open source projects and learn new technologies. 😊
 
 ## Summary
 
@@ -105,75 +97,41 @@ Photoshop CS3, Illustrator CS3, Amazon AWS.
 
 ## Skills
 
+### Artifical Intelligence
+
+- AI Operator
+- AI Scientist
+- ML Trainer
+- Robotist
+- Cybernetics
+
 ### Programming Languages
 
-- Java
-- C#
-- C++
+- C#, C, Cpp
 - Python
-- JavaScript
-- C
-- Objective C
-- Perl
-- PHP
+- Java/JavaScript\
+- Dragon
 
-### Frameworks
+### Game Engines
 
 - Unity
 - Unreal
-- ExtJS
-- GWT
-- GXT
-- Spring
-- Zend
-- Tapestry
-- DOJO
 
 ### Tools
 
-- PyTorch Machine Learning
-- Nuance OCR SDK
-- Oracle OutsideIn
+- 
+- ML-Agents
+- PyTorch
+- TensorFlow
 - NodeJS
 - Electron
-- Dragon (Invented)
-- Bryntum
-- Exe4J
-- Advanced Installer
+- Dragon
 
 ### IDEs / Editors
 
 - Visual Studio
-- Eclipse
-- IDEAJ
-- Netbeans
-- Komodo IDE
-
-### Databases / Servers
-
-- Oracle Database 11g
-- eXist Database
-- Amazon AWS
-- JBoss EAP 6/7
-- JBoss AS 7
-- Apache Tomcat
-- Apache HTTP
-- VmWare Workstation / ESXi
-
-### Design / Graphics
-
-- Photoshop
-- Illustrator
-- Blender
-
-### Other Skills
-
-- VoIP
-- Hardware Networking
-- SEO
-- Ray Tracing
-- HFSM
-- AI
+- Nano
+- Vi
 
 # Hashtag Cloud
 [AI](https://openai.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GWT](http://www.gwtproject.org/), [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition), [Java](https://www.java.com/en/), [Python](https://www.python.org/), [Unity](https://unity.com/), [Unreal](https://www.unrealengine.com/en-US/), [ExtJS](https://www.sencha.com/products/extjs/), [Nuance](https://www.nuance.com/index.html), [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP), [HFSM](https://en.wikipedia.org/wiki/UML_state_machine#Hierarchically_nested_states), [Resume](https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-resume), [NodeJS](https://nodejs.org/en/), [PyTorch](https://pytorch.org/), [Oracle](https://www.oracle.com/index.html), [Bryntum](https://www.bryntum.com/), [Dragon](https://www.nuance.com/dragon.html), [ESPN](https://www.espn.com/), [VMware](https://www.vmware.com/), [CPlusPlus](http://www.cplusplus.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [RayTracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)), [Prototype](https://en.wikipedia.org/wiki/Prototype_(video_game)), [BigData](https://en.wikipedia.org/wiki/Big_data), [WebDevelopment](https://developer.mozilla.org/en-US/docs/Learn/Web_Development), [CloudComputing](https://en.wikipedia.org/wiki/Cloud_computing), [SoftwareEngineer](https://en.wikipedia.org/wiki/Software_engineer), [GameDeveloper](https://en.wikipedia.org/wiki/Game_developer), [BadCatGame](http://badcatgame.com/),
