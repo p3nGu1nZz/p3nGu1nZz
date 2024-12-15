@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m p3ngu1nZz, a passionate gamer and developer. Currently, I'm working on **Plasma**, a cutting-edge WebGPU game engine written in pure JavaScript. Plasma rivals the performance of Unity and Unreal Engine 5 by using JIT-WASM compilers to leverage multiple processors for shaders and game code, running on multiple processes. We're also extending the engine's core to handle N-dimensional matrices used for tensor calculation, similar to PyTorch. **Plasma-Arc**, our exciting new tech demo, showcases the capabilities of the Plasma engine.
+I’m _**p3ngu1nZz**_, a passionate gamer and developer. Currently, I'm working on **Plasma**, a cutting-edge WebGPU game engine written in pure JavaScript. Plasma rivals the performance of Unity and Unreal Engine 5 by using JIT-WASM compilers to leverage multiple processors for shaders and game code, running on multiple processes. We're also extending the engine's core to handle N-dimensional matrices used for tensor calculation, similar to PyTorch. **Plasma-Arc**, our exciting new tech demo, showcases the capabilities of the Plasma engine.
 
-I'm also deeply involved in **Project Tau**, a state-of-the-art Deep Q-Network (DQN) initiative that utilizes dual bidirectional LSTM and Vector State for evolving Long-Term Memory (LTM).
+I'm also deeply involved in **Project Tau**, a state-of-the-art Deep Q-Network (DQN) initiative that utilizes dual bidirectional LSTM and Vector State for evolving Long-Term Memory (LTM). Additionally, I'm working on a new game called **Bad Cat**, which has been in development for approximately four years.
 
 I’m dedicated to creating fun and immersive games using Plasma, C++, and WebAssembly. I also love contributing to open source projects and constantly learning new technologies. 😊
 
